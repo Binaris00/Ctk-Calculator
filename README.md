@@ -1,24 +1,23 @@
 # Ctk Calculator
 
-Just a calculator created in custom tkinter
+Just a calculators created in custom tkinter
 
-In development
+## Features
+
+- Standart calculator
 
 
-## Roadmap
+  Convertors (See convertors_template.py)
+- Temperature calculator
 
--✅ Standart calculator 
+- Time calculator
 
--❎ Scientific calculator
+- Data calculator
 
--❎ Programmer calculator
+- Power calculator
 
--❎ Date calculator
+- Pressure calculator
 
--❎ Currency calculator (Maybe not c:)
+- Volume calculator
 
--❎ Temperature calculator
-
--❎ Time calculator
-
--❎ Data calculator
+- Speed calculator
